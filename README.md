@@ -1,2 +1,2 @@
 # alistairewj.github.io
-Personal website built using Hugo and based off the future imperfect theme
+Personal website built using [Hugo](https://gohugo.io/) and based off the [academic theme](https://themes.gohugo.io/academic/).
