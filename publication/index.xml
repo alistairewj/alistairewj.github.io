@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Alistair Johnson</title>
+    <link>http://alistairewj.github.io/publication/</link>
+    <description>Recent content in Publications on Alistair Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Alistair Johnson</copyright>
+    <lastBuildDate>Tue, 24 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MIMIC-III, a freely accessible critical care database</title>
+      <link>http://alistairewj.github.io/publication/mimic-iii/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alistairewj.github.io/publication/mimic-iii/</guid>
+      <description>
+
+&lt;h1 id=&#34;mimic-iii-critical-care-database&#34;&gt;MIMIC-III Critical Care Database&lt;/h1&gt;
+
+&lt;p&gt;MIMIC-III (&lt;strong&gt;M&lt;/strong&gt;edical &lt;strong&gt;I&lt;/strong&gt;nformation &lt;strong&gt;M&lt;/strong&gt;art for &lt;strong&gt;I&lt;/strong&gt;ntensive &lt;strong&gt;C&lt;/strong&gt;are III) is a large, freely-available database comprising deidentified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.&lt;/p&gt;
+
+&lt;p&gt;The database includes information such as demographics, vital sign measurements made at the bedside (~1 data point per hour), laboratory test results, procedures, medications, caregiver notes, imaging reports, and mortality (both in and out of hospital).&lt;/p&gt;
+
+&lt;p&gt;MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it is freely available to researchers worldwide&lt;/li&gt;
+&lt;li&gt;it encompasses a diverse and very large population of ICU patients&lt;/li&gt;
+&lt;li&gt;it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More detail on MIMIC-III can be found on &lt;a href=&#34;http://mimic.physionet.org/&#34;&gt;http://mimic.physionet.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Decision Support in Critical Care</title>
+      <link>http://alistairewj.github.io/publication/ml-in-cc/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alistairewj.github.io/publication/ml-in-cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Severity of Illness Scale Using a Subset of Acute Physiology and Chronic Health Evaluation Data Elements Shows Comparable Predictive Accuracy</title>
+      <link>http://alistairewj.github.io/publication/oasis/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://alistairewj.github.io/publication/oasis/</guid>
+      <description>&lt;p&gt;OASIS is a novel severity score which aims to simplify risk adjustment in critical care. While calculation of traditional severity scores can be laborious, in particular as some scores have over 20 variables and 100 diagnostic categories, OASIS only requires 10 variables. Furthermore, these variables are routinely collected for patients in the intensive care unit (ICU).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
