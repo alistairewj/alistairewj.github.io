@@ -22,11 +22,11 @@
   <link rel="feed" href="http://alistairewj.github.io/index.xml" type="application/rss+xml" title="Alistair Johnson">
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-  <link rel="canonical" href="http://alistairewj.github.io/publication/mimic-iii/">
+  <link rel="canonical" href="http://alistairewj.github.io/publication/reproducibility-mimic/">
 
   
 
-  <title>MIMIC-III, a freely accessible critical care database | Alistair Johnson</title>
+  <title>Reproducibility in critical care: a mortality prediction case study | Alistair Johnson</title>
 
 </head>
 <body id="top">
@@ -70,10 +70,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">MIMIC-III, a freely accessible critical care database</h1>
+      <h1 itemprop="name">Reproducibility in critical care: a mortality prediction case study</h1>
       <span class="pub-authors" itemprop="author">
                 
-                Alistair E.W. Johnson, Tom J. Pollard, Lu Shen, Li-wei H. Lehman, Mengling Feng, Mohammad Ghassemi, Benjamin Moody, Peter Szolovits, Leo Anthony Celi, and Roger G. Mark
+                Alistair E. W. Johnson, Tom J. Pollard, Roger G. Mark
                 
             </span>
       <span class="pull-right">
@@ -82,35 +82,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2falistairewj.github.io%2fpublication%2fmimic-iii%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2falistairewj.github.io%2fpublication%2freproducibility-mimic%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MIMIC-III%2c%20a%20freely%20accessible%20critical%20care%20database&amp;url=http%3a%2f%2falistairewj.github.io%2fpublication%2fmimic-iii%2f"
+         href="https://twitter.com/intent/tweet?text=Reproducibility%20in%20critical%20care%3a%20a%20mortality%20prediction%20case%20study&amp;url=http%3a%2f%2falistairewj.github.io%2fpublication%2freproducibility-mimic%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2falistairewj.github.io%2fpublication%2fmimic-iii%2f&amp;title=MIMIC-III%2c%20a%20freely%20accessible%20critical%20care%20database"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2falistairewj.github.io%2fpublication%2freproducibility-mimic%2f&amp;title=Reproducibility%20in%20critical%20care%3a%20a%20mortality%20prediction%20case%20study"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2falistairewj.github.io%2fpublication%2fmimic-iii%2f&amp;title=MIMIC-III%2c%20a%20freely%20accessible%20critical%20care%20database"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2falistairewj.github.io%2fpublication%2freproducibility-mimic%2f&amp;title=Reproducibility%20in%20critical%20care%3a%20a%20mortality%20prediction%20case%20study"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=MIMIC-III%2c%20a%20freely%20accessible%20critical%20care%20database&amp;body=http%3a%2f%2falistairewj.github.io%2fpublication%2fmimic-iii%2f">
+         href="mailto:?subject=Reproducibility%20in%20critical%20care%3a%20a%20mortality%20prediction%20case%20study&amp;body=http%3a%2f%2falistairewj.github.io%2fpublication%2freproducibility-mimic%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -124,14 +124,16 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">MIMIC-III (&#39;Medical Information Mart for Intensive Care&#39;) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. Data includes vital signs, medications, laboratory measurements, observations and notes charted by care providers, fluid balance, procedure codes, diagnostic codes, imaging reports, hospital length of stay, survival data, and more. The database supports applications including academic and industrial research, quality improvement initiatives, and higher education coursework.</p>
+    <p class="pub-abstract" itemprop="text">Mortality prediction of intensive care unit (ICU) patients facilitates hospital benchmarking and has the opportunity to provide caregivers with useful summaries of patient health at the bedside. The development of novel models for mortality prediction is a popular task in machine learning, with researchers typically seeking to maximize measures such as the area under the receiver operator characteristic curve (AUROC). The number of researcher degrees of freedom that contribute to the performance of a model, however, presents a challenge when seeking to compare reported performance of such models.
+In this study, we review publications that have reported performance of mortality prediction models based on the Medical Information Mart for Intensive Care (MIMIC) database and attempt to reproduce the cohorts used in their studies. We then compare the performance reported in the studies against gradient boosting and logistic regression models using a simple set of features extracted from MIMIC. We demonstrate the large heterogeneity in studies that purport to conduct the single task of mortality prediction, highlighting the need for improvements in the way that prediction tasks are reported to enable fairer comparison between models.
+We reproduced datasets for 38 experiments corresponding to 28 published studies using MIMIC. In half of the experiments, the sample size we acquired was 25% greater or smaller than the sample size reported. The highest discrepancy was 11,767 patients. While accurate reproduction of each study cannot be guaranteed, we believe that these results highlight the need for more consistent reporting of model design and methodology to allow performance improvements to be compared. We discuss the challenges in reproducing the cohorts used in the studies, highlighting the importance of clearly reported methods (e.g. data cleansing, variable selection, cohort selection) and the need for open code and publicly available benchmarks.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">In <em>Scientific Data</em>.</div>
+          <div class="col-xs-12 col-sm-9">In <em>Proceedings of Machine Learning Research</em>.</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -144,7 +146,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2016
+            August, 2017
           </div>
         </div>
       </div>
@@ -164,18 +166,22 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878278/pdf/sdata201635.pdf">
+<a class="btn btn-primary btn-outline" href="http://alistairewj.github.io/papers/reproducibility-critical-care-final.pdf">
   PDF
 </a>
 
 
 
 
-
-
-<a class="btn btn-primary btn-outline" href="http://alistairewj.github.io/project/mimic-iii/">
-  Project
+<a class="btn btn-primary btn-outline" href="https://github.com/alistairewj/reproducibility-mimic">
+  Code
 </a>
+
+
+<a class="btn btn-primary btn-outline" href="http://mimic.physionet.org">
+  Dataset
+</a>
+
 
 
 
@@ -189,37 +195,17 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-
-<h1 id="mimic-iii-critical-care-database">MIMIC-III Critical Care Database</h1>
-
-<p>MIMIC-III (<strong>M</strong>edical <strong>I</strong>nformation <strong>M</strong>art for <strong>I</strong>ntensive <strong>C</strong>are III) is a large, freely-available database comprising deidentified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.</p>
-
-<p>The database includes information such as demographics, vital sign measurements made at the bedside (~1 data point per hour), laboratory test results, procedures, medications, caregiver notes, imaging reports, and mortality (both in and out of hospital).</p>
-
-<p>MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:</p>
-
-<ul>
-<li>it is freely available to researchers worldwide</li>
-<li>it encompasses a diverse and very large population of ICU patients</li>
-<li>it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.</li>
-</ul>
-
-<p>More detail on MIMIC-III can be found on <a href="http://mimic.physionet.org/">http://mimic.physionet.org/</a></p>
-</div>
+    <div class="article-style"></div>
 
   </div>
 
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://alistairewj.github.io/publication/ml-in-cc/"><span
-      aria-hidden="true">&larr;</span> Machine Learning and Decision Support in Critical Care</a></li>
+    <li class="previous"><a href="http://alistairewj.github.io/publication/mimic-iii/"><span
+      aria-hidden="true">&larr;</span> MIMIC-III, a freely accessible critical care database</a></li>
     
 
-    
-    <li class="next"><a href="http://alistairewj.github.io/publication/reproducibility-mimic/">Reproducibility in critical care: a mortality prediction case study <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

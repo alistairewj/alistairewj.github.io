@@ -1,106 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/project/mimic-iii/</loc>
-      <lastmod>2016-05-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/publication/mimic-iii/</loc>
-      <lastmod>2016-05-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/publication/reproducibility-mimic/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/publication/ml-in-cc/</loc>
-      <lastmod>2016-01-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/project/mimic-iii/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/publication/oasis/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/publication/mimic-iii/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/project/oasis/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/publication/ml-in-cc/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/</loc>
-      <lastmod>2016-10-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/publication/oasis/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/project/oasis/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/project/</loc>
-      <lastmod>2016-05-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/home/about/</loc>
+    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/home/publications_selected/</loc>
+    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/publication/</loc>
-      <lastmod>2016-05-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/home/projects/</loc>
+    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://alistairewj.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://alistairewj.github.io/home/teaching/</loc>
+    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+  </url>
   
 </urlset>

@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alistair Johnson on Alistair Johnson</title>
-    <link>http://alistairewj.github.io/</link>
-    <description>Recent content in Alistair Johnson on Alistair Johnson</description>
+    <title>Alistair Johnson</title>
+    <link>http://alistairewj.github.io/index.xml</link>
+    <description>Recent content on Alistair Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alistair Johnson</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reproducibility in critical care: a mortality prediction case study</title>
+      <link>http://alistairewj.github.io/publication/reproducibility-mimic/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alistairewj.github.io/publication/reproducibility-mimic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MIMIC-III</title>
