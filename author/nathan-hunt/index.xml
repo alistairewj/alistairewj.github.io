@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan Hunt | Alistair&#39;s Website!</title>
+    <link>/author/nathan-hunt/</link>
+      <atom:link href="/author/nathan-hunt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan Hunt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Nathan Hunt</title>
+      <link>/author/nathan-hunt/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Intervention Prediction and Understanding with Deep Neural Networks</title>
+      <link>/publication/suresh-2017-clinical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/suresh-2017-clinical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joachim Behar | Alistair&#39;s Website!</title>
+    <link>/author/joachim-behar/</link>
+      <atom:link href="/author/joachim-behar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joachim Behar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Joachim Behar</title>
+      <link>/author/joachim-behar/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal heart beat detection using signal quality indices</title>
+      <link>/publication/johnson-2015-multimodal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2015-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of single channel fetal ECG extraction methods</title>
+      <link>/publication/behar-2014-comparison/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/behar-2014-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced annotation of ECG signals using contextual information</title>
+      <link>/publication/zhu-2014-crowd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2014-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-peak estimation using multimodal lead switching</title>
+      <link>/publication/johnson-2014-r/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2014-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An echo state neural network for foetal ECG extraction optimised by random search</title>
+      <link>/publication/behar-2013-echo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/behar-2013-echo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian voting of multiple annotators for improved QT interval estimation</title>
+      <link>/publication/zhu-2013-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2013-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

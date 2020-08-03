@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistair Johnson | Alistair&#39;s Website!</title>
+    <link>/author/alistair-johnson/</link>
+      <atom:link href="/author/alistair-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alistair Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Alistair Johnson</title>
+      <link>/author/alistair-johnson/</link>
+    </image>
+    
+    <item>
+      <title>MIMIC-III, a freely accessible critical care database</title>
+      <link>/publication/johnson-2016-mimic/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-mimic/</guid>
+      <description>&lt;p&gt;MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it is freely available to researchers worldwide&lt;/li&gt;
+&lt;li&gt;it encompasses a diverse and very large population of ICU patients&lt;/li&gt;
+&lt;li&gt;it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More detail on MIMIC-III can be found with 
+&lt;a href=&#34;http://mimic.physionet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the MIMIC-III online documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

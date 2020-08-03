@@ -1,59 +1,933 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alistairewj.github.io/</loc>
-    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-07-24T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/publication/reproducibility-mimic/</loc>
-    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+    <loc>/talk/2020-chil-deidentification/</loc>
+    <lastmod>2020-07-24T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/project/mimic-iii/</loc>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-mimic-iv-analysis-tutorial/</loc>
+    <lastmod>2020-07-24T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-mimic-iv-data-tutorial/</loc>
+    <lastmod>2020-07-24T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alistair-ew-johnson/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chengyu-liu/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2020-deidentification/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jian-zhang/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jianqing-li/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lucas-bulgarelli/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bulgarelli-2020-prediction/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qin-shen/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rodrigo-octavio-deliberato/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cai-2020-rule/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tom-j-pollard/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiangyu-zhang/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhipeng-cai/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/others/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ari-moskowitz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ary-serpa-neto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/berke-saat/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chih-ying-deng/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/naik-2019-complex/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/edson-amaro-junior/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/elizabeth-i-buchbinder/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f-stephen-hodi/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-silva-lopes/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/girish-s-naik/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guilherme-goto-escudero/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bose-2019-impact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-d-raffa/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-d-schoenfeld/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leo-a-celi/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leo-anthony-celi/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcelo-gama-de-abreu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcus-j-schultz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthew-p-lungren/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2019-mimic/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nathaniel-r-greenbaum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/niklas-soderberg-campos/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/neto-2019-normalization/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paolo-pelosi/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/patrick-a-ott/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/vistisen-2019-predicting/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prove-network-investigators/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rizwan-haq/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roger-g-mark/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/seth-j-berkowitz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/deliberato-2019-severitas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/simon-t-vistisen/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/somnath-bose/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stephanie-q-ko/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steven-horng/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sushrut-s-waikar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-wl-scheeren/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2018-comparative/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alistair-e-johnson/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bryant-2018-apache/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhu-2018-bayesian/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/corey-bryant/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daby-sow/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-a-clifton/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-j-stone/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/denise-carnieli-cazati/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dorothea-devanna/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/douglas-r-rosing/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eric-p-lehman/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fengyi-tang/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gari-d-clifford/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/o-2018-incidence/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jerome-aboab/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-d-vargas/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kathy-henson/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laura-freeseman-freeman/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lauren-m-kunz/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/li-wei-lehman/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lieuwe-d-bos/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthieu-komorowski/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maureen-stark/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/neto-2018-mechanical/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oliver-ren/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/omar-badawi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-amorim/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ren-2018-predicting/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sandfort-2018-prolonged/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ricardo-l-cordioli/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rodrigo-o-deliberato/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roger-mark/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sharon-odonoghue/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/silvio-moreto-pereira/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pollard-2018-tableone/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pollard-2018-eicu/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thiago-domingos-correa/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-higgins/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tingting-zhu/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/veit-sandfort/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yang-yang/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zach-shahn/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2017-analyzing/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-s-li/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christina-chen/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-sudduth/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/suresh-2017-clinical/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/drew-birrenkott/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lehman-2017-dynamics/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eduardo-coutinho/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/li-2017-false/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guilherme-de-paula-pinto-schettino/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harini-suresh/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-danziger/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joon-lee/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lionel-tarassenko/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-af-pimentel/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marzyeh-ghassemi/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/neto-2017-mechanical/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nathan-hunt/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-h-charlton/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-j-watkinson/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-szolovits/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2017-real/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2017-reproducibility/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ricardo-luiz-cordioli/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/chen-2017-right/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shamim-nemati/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2017-mimic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pimentel-2017-toward/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alistair-johnson/</loc>
     <lastmod>2016-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/publication/mimic-iii/</loc>
+    <loc>/author/benjamin-moody/</loc>
     <lastmod>2016-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/publication/ml-in-cc/</loc>
+    <loc>/tag/critical-care/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/li-wei-h.-lehman/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lu-shen/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mengling-feng/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mimic/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2016-mimic/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mohammad-ghassemi/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roger-g.-mark/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tom-j.-pollard/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katherine-e-niehaus/</loc>
     <lastmod>2016-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/publication/oasis/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/johnson-2016-machine/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/project/oasis/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/mohammad-m-ghassemi/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/home/about/</loc>
-    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/home/publications_selected/</loc>
-    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+    <loc>/author/david-stone/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/home/projects/</loc>
-    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+    <loc>/publication/johnson-2016-external/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alistairewj.github.io/home/teaching/</loc>
-    <lastmod>2016-10-24T00:00:00+00:00</lastmod>
+    <loc>/publication/bose-2016-impact/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-raffa/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laleh-jalilian/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tom-pollard/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fernando-andreotti/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joachim-behar/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julien-oster/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2015-multimodal/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/behar-2014-comparison/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrew-a-kramer/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhu-2014-crowd/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2014-data/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-duncan-young/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-burgess/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2014-physiological/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2014-r/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2013-new/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/colloca-2013-support/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/behar-2013-echo/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhu-2013-bayesian/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2013-improved/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luca-mainardi/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2013-risk/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roberta-colloca/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sharath-r-cholleti/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/timothy-g-buchman/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-tsanas/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aa-kramer/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gd-clifford/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-mayaud/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n-dunkley/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2012-patient/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/johnson-2012-pre/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
   </url>
   
 </urlset>
