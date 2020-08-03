@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Alistair Johnson</title>
-    <link>http://alistairewj.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Alistair Johnson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Alistair Johnson</copyright>
-    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    <title>Publication_types | Alistair&#39;s Website!</title>
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

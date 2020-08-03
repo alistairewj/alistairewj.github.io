@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo L Cordioli | Alistair&#39;s Website!</title>
+    <link>/author/ricardo-l-cordioli/</link>
+      <atom:link href="/author/ricardo-l-cordioli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo L Cordioli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Ricardo L Cordioli</title>
+      <link>/author/ricardo-l-cordioli/</link>
+    </image>
+    
+    <item>
+      <title>Mechanical power of ventilation is associated with mortality in critically ill patients: an analysis of patients in two observational cohorts</title>
+      <link>/publication/neto-2018-mechanical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2018-mechanical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

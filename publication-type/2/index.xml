@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alistair&#39;s Website!</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Prediction on critically ill patients: The role of &#34;big data&#34;</title>
+      <link>/publication/bulgarelli-2020-prediction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bulgarelli-2020-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule-based rough-refined two-step-procedure for real-time premature beat detection in single-lead ECG</title>
+      <link>/publication/cai-2020-rule/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2020-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex inter-relationship of body mass index, gender and serum creatinine on survival: exploring the obesity paradox in melanoma patients treated with checkpoint inhibition</title>
+      <link>/publication/naik-2019-complex/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/naik-2019-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of intensive care unit discharge delays on patient outcomes: a retrospective cohort study</title>
+      <link>/publication/bose-2019-impact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bose-2019-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports</title>
+      <link>/publication/johnson-2019-mimic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2019-mimic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalization of mechanical power to anthropometric indices: impact on its association with mortality in critically ill patients</title>
+      <link>/publication/neto-2019-normalization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2019-normalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEVERITAS: An externally validated mortality prediction for critically ill patients in low and middle-income countries</title>
+      <link>/publication/deliberato-2019-severitas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/deliberato-2019-severitas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Sepsis Identification Methods in an Electronic Database</title>
+      <link>/publication/johnson-2018-comparative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2018-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APACHE Outcomes Across Venues predicting inpatient mortality using electronic medical record data</title>
+      <link>/publication/bryant-2018-apache/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bryant-2018-apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian fusion of physiological measurements using a signal quality extension</title>
+      <link>/publication/zhu-2018-bayesian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2018-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence and Risk Factors Associated with Hyperactive, Hypoactive, and Mixed Delirium</title>
+      <link>/publication/o-2018-incidence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/o-2018-incidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical power of ventilation is associated with mortality in critically ill patients: an analysis of patients in two observational cohorts</title>
+      <link>/publication/neto-2018-mechanical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2018-mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prolonged elevated heart rate and 90-Day survival in acutely Ill patients: Data from the MIMIC-III database</title>
+      <link>/publication/sandfort-2018-prolonged/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sandfort-2018-prolonged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tableone: An open source Python package for producing summary statistics for research papers</title>
+      <link>/publication/pollard-2018-tableone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pollard-2018-tableone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The eICU Collaborative Research Database, a freely available multi-center database for critical care research</title>
+      <link>/publication/pollard-2018-eicu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pollard-2018-eicu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of multivariate vital sign time series and severe sepsis among patients in critical care</title>
+      <link>/publication/lehman-2017-dynamics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lehman-2017-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False arrhythmia alarm reduction in the intensive care unit</title>
+      <link>/publication/li-2017-false/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2017-false/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical power during mechanical ventilation of critically ill patients</title>
+      <link>/publication/neto-2017-mechanical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2017-mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Right ventricular function, peripheral edema, and acute kidney injury in critical illness</title>
+      <link>/publication/chen-2017-right/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2017-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIMIC Code Repository: enabling reproducibility in critical care research</title>
+      <link>/publication/johnson-2017-mimic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017-mimic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a robust estimation of respiratory rate from pulse oximeters</title>
+      <link>/publication/pimentel-2017-toward/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-2017-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMIC-III, a freely accessible critical care database</title>
+      <link>/publication/johnson-2016-mimic/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-mimic/</guid>
+      <description>&lt;p&gt;MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it is freely available to researchers worldwide&lt;/li&gt;
+&lt;li&gt;it encompasses a diverse and very large population of ICU patients&lt;/li&gt;
+&lt;li&gt;it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More detail on MIMIC-III can be found with 
+&lt;a href=&#34;http://mimic.physionet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the MIMIC-III online documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and decision support in critical care</title>
+      <link>/publication/johnson-2016-machine/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Validation Of The Sepsis-3 Guidelines</title>
+      <link>/publication/johnson-2016-external/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal heart beat detection using signal quality indices</title>
+      <link>/publication/johnson-2015-multimodal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2015-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of single channel fetal ECG extraction methods</title>
+      <link>/publication/behar-2014-comparison/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/behar-2014-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced annotation of ECG signals using contextual information</title>
+      <link>/publication/zhu-2014-crowd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2014-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new severity of illness scale using a subset of acute physiology and chronic health evaluation data elements shows comparable predictive accuracy</title>
+      <link>/publication/johnson-2013-new/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2013-new/</guid>
+      <description>&lt;h2 id=&#34;performance-comparison&#34;&gt;Performance comparison&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data source&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;AUROC&lt;/th&gt;
+&lt;th&gt;SMR&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hospitals across the USA (Cerner)*, 2010-2011&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.837&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0.91 [0.88, 0.94]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.822&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.95 [0.92, 0.98]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oxford, Oxon, UK (John Radcliffe)&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.776 [0.758, 0.795]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1.122 [1.057, 1.189]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;0.767 [0.748, 0.786]&lt;/td&gt;
+&lt;td&gt;0.704 [0.663, 0.745]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.751 [0.731, 0.771]&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1.107 [1.042, 1.174]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Boston, MA, USA (MIMIC-II)&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;0.790 [0.781, 0.799]&lt;/td&gt;
+&lt;td&gt;0.921 [0.890, 0.952]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.802 [0.794, 0.811]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0.559 [0.540, 0.578]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.785 [0.775, 0.794]&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1.017 [0.984, 1.050]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SAPS&lt;/td&gt;
+&lt;td&gt;0.764 [0.755, 0.774]&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SOFA&lt;/td&gt;
+&lt;td&gt;0.748 [0.738, 0.757]&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Original publication of score&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;0.837&lt;/td&gt;
+&lt;td&gt;0.91 [0.88, 0.94]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;0.860&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SAPS&lt;/td&gt;
+&lt;td&gt;0.770&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt;SOFA&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;* AUROC confidence intervals were within 0.0003 of the reported value.&lt;/p&gt;
+&lt;p&gt;Details regarding these performance comparisons can be found in my thesis, available through the Oxford Research Archive, titled 
+&lt;a href=&#34;http://ora.ox.ac.uk/objects/uuid:2486465e-8fda-47a9-b82e-c0a93f4f1fc4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mortality prediction and acuity assessment in critical care&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;This code is provided to ease the calculation of OASIS. If you have code for calculating OASIS in a different programming language, I would be happy to post it here and provide credit.&lt;/p&gt;
+&lt;p&gt;Clicking the below links will download the files to your computer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/files/oasis.xlsm&#34;&gt;Excel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;/files/oasis.m&#34;&gt;MATLAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;/files/oasis.py&#34;&gt;Python&lt;/a&gt; - thanks Tom Pollard!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk-adjustment of patient subpopulations in the intensive care unit using oasis, a novel severity score</title>
+      <link>/publication/johnson-2013-risk/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2013-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

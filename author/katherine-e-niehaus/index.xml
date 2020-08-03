@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine E Niehaus | Alistair&#39;s Website!</title>
+    <link>/author/katherine-e-niehaus/</link>
+      <atom:link href="/author/katherine-e-niehaus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine E Niehaus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Katherine E Niehaus</title>
+      <link>/author/katherine-e-niehaus/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning and decision support in critical care</title>
+      <link>/publication/johnson-2016-machine/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-machine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

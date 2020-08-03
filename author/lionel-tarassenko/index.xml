@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lionel Tarassenko | Alistair&#39;s Website!</title>
+    <link>/author/lionel-tarassenko/</link>
+      <atom:link href="/author/lionel-tarassenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lionel Tarassenko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Lionel Tarassenko</title>
+      <link>/author/lionel-tarassenko/</link>
+    </image>
+    
+    <item>
+      <title>Toward a robust estimation of respiratory rate from pulse oximeters</title>
+      <link>/publication/pimentel-2017-toward/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-2017-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological trajectory of patients pre and post ICU discharge</title>
+      <link>/publication/johnson-2014-physiological/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2014-physiological/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

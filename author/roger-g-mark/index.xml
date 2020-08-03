@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger G Mark | Alistair&#39;s Website!</title>
+    <link>/author/roger-g-mark/</link>
+      <atom:link href="/author/roger-g-mark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger G Mark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Roger G Mark</title>
+      <link>/author/roger-g-mark/</link>
+    </image>
+    
+    <item>
+      <title>MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports</title>
+      <link>/publication/johnson-2019-mimic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2019-mimic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tableone: An open source Python package for producing summary statistics for research papers</title>
+      <link>/publication/pollard-2018-tableone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pollard-2018-tableone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The eICU Collaborative Research Database, a freely available multi-center database for critical care research</title>
+      <link>/publication/pollard-2018-eicu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pollard-2018-eicu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the eICU Collaborative Research Database</title>
+      <link>/publication/johnson-2017-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False arrhythmia alarm reduction in the intensive care unit</title>
+      <link>/publication/li-2017-false/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2017-false/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time mortality prediction in the Intensive Care Unit</title>
+      <link>/publication/johnson-2017-real/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducibility in critical care: a mortality prediction case study</title>
+      <link>/publication/johnson-2017-reproducibility/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2017-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Right ventricular function, peripheral edema, and acute kidney injury in critical illness</title>
+      <link>/publication/chen-2017-right/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2017-right/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

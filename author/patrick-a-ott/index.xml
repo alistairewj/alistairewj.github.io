@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick A Ott | Alistair&#39;s Website!</title>
+    <link>/author/patrick-a-ott/</link>
+      <atom:link href="/author/patrick-a-ott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick A Ott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Patrick A Ott</title>
+      <link>/author/patrick-a-ott/</link>
+    </image>
+    
+    <item>
+      <title>Complex inter-relationship of body mass index, gender and serum creatinine on survival: exploring the obesity paradox in melanoma patients treated with checkpoint inhibition</title>
+      <link>/publication/naik-2019-complex/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/naik-2019-complex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

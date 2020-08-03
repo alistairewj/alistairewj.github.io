@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Zhang | Alistair&#39;s Website!</title>
+    <link>/author/jian-zhang/</link>
+      <atom:link href="/author/jian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
+      <title>Jian Zhang</title>
+      <link>/author/jian-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Rule-based rough-refined two-step-procedure for real-time premature beat detection in single-lead ECG</title>
+      <link>/publication/cai-2020-rule/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2020-rule/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
