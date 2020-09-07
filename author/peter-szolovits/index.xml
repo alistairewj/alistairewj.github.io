@@ -1,40 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Peter Szolovits | Alistair&#39;s Website!</title>
-    <link>/author/peter-szolovits/</link>
-      <atom:link href="/author/peter-szolovits/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peter Szolovits</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu5d83595949abfa42a35b2dc4c63543a6_7396_512x512_fill_lanczos_center_2.png</url>
-      <title>Peter Szolovits</title>
-      <link>/author/peter-szolovits/</link>
-    </image>
-    
-    <item>
-      <title>Clinical Intervention Prediction and Understanding with Deep Neural Networks</title>
-      <link>/publication/suresh-2017-clinical/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/suresh-2017-clinical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIMIC-III, a freely accessible critical care database</title>
-      <link>/publication/johnson-2016-mimic/</link>
-      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/johnson-2016-mimic/</guid>
-      <description>&lt;p&gt;MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;it is freely available to researchers worldwide&lt;/li&gt;
-&lt;li&gt;it encompasses a diverse and very large population of ICU patients&lt;/li&gt;
-&lt;li&gt;it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;More detail on MIMIC-III can be found with 
-&lt;a href=&#34;http://mimic.physionet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the MIMIC-III online documentation&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Szolovits | Alistair's Website!</title><link>/author/peter-szolovits/</link><atom:link href="/author/peter-szolovits/index.xml" rel="self" type="application/rss+xml"/><description>Peter Szolovits</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Peter Szolovits</title><link>/author/peter-szolovits/</link></image><item><title>Clinical Intervention Prediction and Understanding with Deep Neural Networks</title><link>/publication/suresh-2017-clinical/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/suresh-2017-clinical/</guid><description/></item><item><title>MIMIC-III, a freely accessible critical care database</title><link>/publication/johnson-2016-mimic/</link><pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate><guid>/publication/johnson-2016-mimic/</guid><description>&lt;p>MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p>
+&lt;ul>
+&lt;li>it is freely available to researchers worldwide&lt;/li>
+&lt;li>it encompasses a diverse and very large population of ICU patients&lt;/li>
+&lt;li>it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li>
+&lt;/ul>
+&lt;p>More detail on MIMIC-III can be found with
+&lt;a href="http://mimic.physionet.org/" target="_blank" rel="noopener">the MIMIC-III online documentation&lt;/a>.&lt;/p></description></item></channel></rss>
