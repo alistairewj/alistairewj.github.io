@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marcelo Gama de Abreu | Alistair Johnson</title><link>/author/marcelo-gama-de-abreu/</link><atom:link href="/author/marcelo-gama-de-abreu/index.xml" rel="self" type="application/rss+xml"/><description>Marcelo Gama de Abreu</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Marcelo Gama de Abreu</title><link>/author/marcelo-gama-de-abreu/</link></image><item><title>Normalization of mechanical power to anthropometric indices: impact on its association with mortality in critically ill patients</title><link>/publication/neto-2019-normalization/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>/publication/neto-2019-normalization/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Gama de Abreu | Alistair Johnson</title>
+    <link>/author/marcelo-gama-de-abreu/</link>
+      <atom:link href="/author/marcelo-gama-de-abreu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcelo Gama de Abreu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Marcelo Gama de Abreu</title>
+      <link>/author/marcelo-gama-de-abreu/</link>
+    </image>
+    
+    <item>
+      <title>Normalization of mechanical power to anthropometric indices: impact on its association with mortality in critically ill patients</title>
+      <link>/publication/neto-2019-normalization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2019-normalization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

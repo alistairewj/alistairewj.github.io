@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fernando Andreotti | Alistair Johnson</title><link>/author/fernando-andreotti/</link><atom:link href="/author/fernando-andreotti/index.xml" rel="self" type="application/rss+xml"/><description>Fernando Andreotti</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Fernando Andreotti</title><link>/author/fernando-andreotti/</link></image><item><title>Multimodal heart beat detection using signal quality indices</title><link>/publication/johnson-2015-multimodal/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>/publication/johnson-2015-multimodal/</guid><description/></item><item><title>R-peak estimation using multimodal lead switching</title><link>/publication/johnson-2014-r/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/johnson-2014-r/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Andreotti | Alistair Johnson</title>
+    <link>/author/fernando-andreotti/</link>
+      <atom:link href="/author/fernando-andreotti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando Andreotti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Fernando Andreotti</title>
+      <link>/author/fernando-andreotti/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal heart beat detection using signal quality indices</title>
+      <link>/publication/johnson-2015-multimodal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2015-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-peak estimation using multimodal lead switching</title>
+      <link>/publication/johnson-2014-r/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2014-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

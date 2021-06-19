@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guilherme de Paula Pinto Schettino | Alistair Johnson</title><link>/author/guilherme-de-paula-pinto-schettino/</link><atom:link href="/author/guilherme-de-paula-pinto-schettino/index.xml" rel="self" type="application/rss+xml"/><description>Guilherme de Paula Pinto Schettino</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Guilherme de Paula Pinto Schettino</title><link>/author/guilherme-de-paula-pinto-schettino/</link></image><item><title>Mechanical power during mechanical ventilation of critically ill patients</title><link>/publication/neto-2017-mechanical/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/neto-2017-mechanical/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilherme de Paula Pinto Schettino | Alistair Johnson</title>
+    <link>/author/guilherme-de-paula-pinto-schettino/</link>
+      <atom:link href="/author/guilherme-de-paula-pinto-schettino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guilherme de Paula Pinto Schettino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Guilherme de Paula Pinto Schettino</title>
+      <link>/author/guilherme-de-paula-pinto-schettino/</link>
+    </image>
+    
+    <item>
+      <title>Mechanical power during mechanical ventilation of critically ill patients</title>
+      <link>/publication/neto-2017-mechanical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/neto-2017-mechanical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

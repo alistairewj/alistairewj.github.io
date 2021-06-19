@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roger Mark | Alistair Johnson</title><link>/author/roger-mark/</link><atom:link href="/author/roger-mark/index.xml" rel="self" type="application/rss+xml"/><description>Roger Mark</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Roger Mark</title><link>/author/roger-mark/</link></image><item><title>Predicting and Understanding Unexpected Respiratory Decompensation in Critical Care Using Sparse and Heterogeneous Clinical Data</title><link>/publication/ren-2018-predicting/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/ren-2018-predicting/</guid><description/></item><item><title>Dynamics of multivariate vital sign time series and severe sepsis among patients in critical care</title><link>/publication/lehman-2017-dynamics/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/lehman-2017-dynamics/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger Mark | Alistair Johnson</title>
+    <link>/author/roger-mark/</link>
+      <atom:link href="/author/roger-mark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger Mark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Roger Mark</title>
+      <link>/author/roger-mark/</link>
+    </image>
+    
+    <item>
+      <title>Predicting and Understanding Unexpected Respiratory Decompensation in Critical Care Using Sparse and Heterogeneous Clinical Data</title>
+      <link>/publication/ren-2018-predicting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ren-2018-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of multivariate vital sign time series and severe sepsis among patients in critical care</title>
+      <link>/publication/lehman-2017-dynamics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lehman-2017-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

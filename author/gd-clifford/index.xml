@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GD Clifford | Alistair Johnson</title><link>/author/gd-clifford/</link><atom:link href="/author/gd-clifford/index.xml" rel="self" type="application/rss+xml"/><description>GD Clifford</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>GD Clifford</title><link>/author/gd-clifford/</link></image><item><title>Patient Specific Predictions in the Intensive Care Unit Using a Bayesian Ensemble</title><link>/publication/johnson-2012-patient/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/johnson-2012-patient/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GD Clifford | Alistair Johnson</title>
+    <link>/author/gd-clifford/</link>
+      <atom:link href="/author/gd-clifford/index.xml" rel="self" type="application/rss+xml" />
+    <description>GD Clifford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>GD Clifford</title>
+      <link>/author/gd-clifford/</link>
+    </image>
+    
+    <item>
+      <title>Patient Specific Predictions in the Intensive Care Unit Using a Bayesian Ensemble</title>
+      <link>/publication/johnson-2012-patient/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2012-patient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

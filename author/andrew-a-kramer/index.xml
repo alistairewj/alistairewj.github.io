@@ -1,117 +1,177 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrew A Kramer | Alistair Johnson</title><link>/author/andrew-a-kramer/</link><atom:link href="/author/andrew-a-kramer/index.xml" rel="self" type="application/rss+xml"/><description>Andrew A Kramer</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Andrew A Kramer</title><link>/author/andrew-a-kramer/</link></image><item><title>Data preprocessing and mortality prediction: the Physionet/CinC 2012 challenge revisited</title><link>/publication/johnson-2014-data/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/johnson-2014-data/</guid><description/></item><item><title>A new severity of illness scale using a subset of acute physiology and chronic health evaluation data elements shows comparable predictive accuracy</title><link>/publication/johnson-2013-new/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>/publication/johnson-2013-new/</guid><description>&lt;h2 id="performance-comparison">Performance comparison&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Data source&lt;/th>
-&lt;th>Score&lt;/th>
-&lt;th>AUROC&lt;/th>
-&lt;th>SMR&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hospitals across the USA (Cerner)*, 2010-2011&lt;/td>
-&lt;td>OASIS&lt;/td>
-&lt;td>&lt;strong>0.837&lt;/strong>&lt;/td>
-&lt;td>0.91 [0.88, 0.94]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>APS III&lt;/td>
-&lt;td>0.822&lt;/td>
-&lt;td>&lt;strong>0.95 [0.92, 0.98]&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Oxford, Oxon, UK (John Radcliffe)&lt;/td>
-&lt;td>OASIS&lt;/td>
-&lt;td>&lt;strong>0.776 [0.758, 0.795]&lt;/strong>&lt;/td>
-&lt;td>1.122 [1.057, 1.189]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SAPS II&lt;/td>
-&lt;td>0.767 [0.748, 0.786]&lt;/td>
-&lt;td>0.704 [0.663, 0.745]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>APS III&lt;/td>
-&lt;td>0.751 [0.731, 0.771]&lt;/td>
-&lt;td>&lt;strong>1.107 [1.042, 1.174]&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Boston, MA, USA (MIMIC-II)&lt;/td>
-&lt;td>OASIS&lt;/td>
-&lt;td>0.790 [0.781, 0.799]&lt;/td>
-&lt;td>0.921 [0.890, 0.952]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SAPS II&lt;/td>
-&lt;td>&lt;strong>0.802 [0.794, 0.811]&lt;/strong>&lt;/td>
-&lt;td>0.559 [0.540, 0.578]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>APS III&lt;/td>
-&lt;td>0.785 [0.775, 0.794]&lt;/td>
-&lt;td>&lt;strong>1.017 [0.984, 1.050]&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SAPS&lt;/td>
-&lt;td>0.764 [0.755, 0.774]&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SOFA&lt;/td>
-&lt;td>0.748 [0.738, 0.757]&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Original publication of score&lt;/td>
-&lt;td>OASIS&lt;/td>
-&lt;td>0.837&lt;/td>
-&lt;td>0.91 [0.88, 0.94]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SAPS II&lt;/td>
-&lt;td>0.860&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>APS III&lt;/td>
-&lt;td>-&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SAPS&lt;/td>
-&lt;td>0.770&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td> &lt;/td>
-&lt;td>SOFA&lt;/td>
-&lt;td>-&lt;/td>
-&lt;td>-&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>* AUROC confidence intervals were within 0.0003 of the reported value.&lt;/p>
-&lt;p>Details regarding these performance comparisons can be found in my thesis, available through the Oxford Research Archive, titled
-&lt;a href="http://ora.ox.ac.uk/objects/uuid:2486465e-8fda-47a9-b82e-c0a93f4f1fc4" target="_blank" rel="noopener">Mortality prediction and acuity assessment in critical care&lt;/a>.&lt;/p>
-&lt;h2 id="code">Code&lt;/h2>
-&lt;p>This code is provided to ease the calculation of OASIS. If you have code for calculating OASIS in a different programming language, I would be happy to post it here and provide credit.&lt;/p>
-&lt;p>Clicking the below links will download the files to your computer.&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="/files/oasis.xlsm">Excel&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="/files/oasis.m">MATLAB&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="/files/oasis.py">Python&lt;/a> - thanks Tom Pollard!&lt;/li>
-&lt;/ul></description></item><item><title>Pre-processing methods for prognostic models</title><link>/publication/johnson-2012-pre/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/johnson-2012-pre/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew A Kramer | Alistair Johnson</title>
+    <link>/author/andrew-a-kramer/</link>
+      <atom:link href="/author/andrew-a-kramer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew A Kramer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Andrew A Kramer</title>
+      <link>/author/andrew-a-kramer/</link>
+    </image>
+    
+    <item>
+      <title>Data preprocessing and mortality prediction: the Physionet/CinC 2012 challenge revisited</title>
+      <link>/publication/johnson-2014-data/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2014-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new severity of illness scale using a subset of acute physiology and chronic health evaluation data elements shows comparable predictive accuracy</title>
+      <link>/publication/johnson-2013-new/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2013-new/</guid>
+      <description>
+
+&lt;h2 id=&#34;performance-comparison&#34;&gt;Performance comparison&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data source&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;AUROC&lt;/th&gt;
+&lt;th&gt;SMR&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hospitals across the USA (Cerner)*, 2010-2011&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.837&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0.91 [0.88, 0.94]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.822&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.95 [0.92, 0.98]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oxford, Oxon, UK (John Radcliffe)&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.776 [0.758, 0.795]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1.122 [1.057, 1.189]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;0.767 [0.748, 0.786]&lt;/td&gt;
+&lt;td&gt;0.704 [0.663, 0.745]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.751 [0.731, 0.771]&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1.107 [1.042, 1.174]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Boston, MA, USA (MIMIC-II)&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;0.790 [0.781, 0.799]&lt;/td&gt;
+&lt;td&gt;0.921 [0.890, 0.952]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0.802 [0.794, 0.811]&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0.559 [0.540, 0.578]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;0.785 [0.775, 0.794]&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1.017 [0.984, 1.050]&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SAPS&lt;/td&gt;
+&lt;td&gt;0.764 [0.755, 0.774]&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SOFA&lt;/td&gt;
+&lt;td&gt;0.748 [0.738, 0.757]&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Original publication of score&lt;/td&gt;
+&lt;td&gt;OASIS&lt;/td&gt;
+&lt;td&gt;0.837&lt;/td&gt;
+&lt;td&gt;0.91 [0.88, 0.94]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SAPS II&lt;/td&gt;
+&lt;td&gt;0.860&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;APS III&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SAPS&lt;/td&gt;
+&lt;td&gt;0.770&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;SOFA&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;* AUROC confidence intervals were within 0.0003 of the reported value.&lt;/p&gt;
+
+&lt;p&gt;Details regarding these performance comparisons can be found in my thesis, available through the Oxford Research Archive, titled &lt;a href=&#34;https://ora.ox.ac.uk/objects/uuid:2486465e-8fda-47a9-b82e-c0a93f4f1fc4&#34;&gt;Mortality prediction and acuity assessment in critical care&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;This code is provided to ease the calculation of OASIS. If you have code for calculating OASIS in a different programming language, I would be happy to post it here and provide credit.&lt;/p&gt;
+
+&lt;p&gt;Clicking the below links will download the files to your computer.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/oasis.xlsm&#34;&gt;Excel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/oasis.m&#34;&gt;MATLAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/oasis.py&#34;&gt;Python&lt;/a&gt; - thanks Tom Pollard!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-processing methods for prognostic models</title>
+      <link>/publication/johnson-2012-pre/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2012-pre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simon T Vistisen | Alistair Johnson</title><link>/author/simon-t-vistisen/</link><atom:link href="/author/simon-t-vistisen/index.xml" rel="self" type="application/rss+xml"/><description>Simon T Vistisen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Simon T Vistisen</title><link>/author/simon-t-vistisen/</link></image><item><title>Predicting vital sign deterioration with artificial intelligence or machine learning</title><link>/publication/vistisen-2019-predicting/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>/publication/vistisen-2019-predicting/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon T Vistisen | Alistair Johnson</title>
+    <link>/author/simon-t-vistisen/</link>
+      <atom:link href="/author/simon-t-vistisen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon T Vistisen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Simon T Vistisen</title>
+      <link>/author/simon-t-vistisen/</link>
+    </image>
+    
+    <item>
+      <title>Predicting vital sign deterioration with artificial intelligence or machine learning</title>
+      <link>/publication/vistisen-2019-predicting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/vistisen-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
