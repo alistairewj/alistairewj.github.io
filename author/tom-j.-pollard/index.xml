@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tom J. Pollard | Alistair Johnson</title><link>/author/tom-j.-pollard/</link><atom:link href="/author/tom-j.-pollard/index.xml" rel="self" type="application/rss+xml"/><description>Tom J. Pollard</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Tom J. Pollard</title><link>/author/tom-j.-pollard/</link></image><item><title>MIMIC-III, a freely accessible critical care database</title><link>/publication/johnson-2016-mimic/</link><pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate><guid>/publication/johnson-2016-mimic/</guid><description>&lt;p>MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p>
-&lt;ul>
-&lt;li>it is freely available to researchers worldwide&lt;/li>
-&lt;li>it encompasses a diverse and very large population of ICU patients&lt;/li>
-&lt;li>it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li>
-&lt;/ul>
-&lt;p>More detail on MIMIC-III can be found with
-&lt;a href="https://mimic.physionet.org/" target="_blank" rel="noopener">the MIMIC-III online documentation&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom J. Pollard | Alistair Johnson</title>
+    <link>/author/tom-j.-pollard/</link>
+      <atom:link href="/author/tom-j.-pollard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom J. Pollard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Tom J. Pollard</title>
+      <link>/author/tom-j.-pollard/</link>
+    </image>
+    
+    <item>
+      <title>MIMIC-III, a freely accessible critical care database</title>
+      <link>/publication/johnson-2016-mimic/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2016-mimic/</guid>
+      <description>&lt;p&gt;MIMIC supports a diverse range of analytic studies spanning epidemiology, clinical decision-rule improvement, and electronic tool development. It is notable for three factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it is freely available to researchers worldwide&lt;/li&gt;
+&lt;li&gt;it encompasses a diverse and very large population of ICU patients&lt;/li&gt;
+&lt;li&gt;it contains high temporal resolution data including lab results, electronic documentation, and bedside monitor trends and waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More detail on MIMIC-III can be found with 
+&lt;a href=&#34;https://mimic.physionet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the MIMIC-III online documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

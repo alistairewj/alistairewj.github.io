@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roberta Colloca | Alistair Johnson</title><link>/author/roberta-colloca/</link><atom:link href="/author/roberta-colloca/index.xml" rel="self" type="application/rss+xml"/><description>Roberta Colloca</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Roberta Colloca</title><link>/author/roberta-colloca/</link></image><item><title>A support vector machine approach for reliable detection of atrial fibrillation events</title><link>/publication/colloca-2013-support/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>/publication/colloca-2013-support/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberta Colloca | Alistair Johnson</title>
+    <link>/author/roberta-colloca/</link>
+      <atom:link href="/author/roberta-colloca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberta Colloca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Roberta Colloca</title>
+      <link>/author/roberta-colloca/</link>
+    </image>
+    
+    <item>
+      <title>A support vector machine approach for reliable detection of atrial fibrillation events</title>
+      <link>/publication/colloca-2013-support/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/colloca-2013-support/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

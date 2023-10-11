@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jonathan D Schoenfeld | Alistair Johnson</title><link>/author/jonathan-d-schoenfeld/</link><atom:link href="/author/jonathan-d-schoenfeld/index.xml" rel="self" type="application/rss+xml"/><description>Jonathan D Schoenfeld</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Jonathan D Schoenfeld</title><link>/author/jonathan-d-schoenfeld/</link></image><item><title>Complex inter-relationship of body mass index, gender and serum creatinine on survival: exploring the obesity paradox in melanoma patients treated with checkpoint inhibition</title><link>/publication/naik-2019-complex/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>/publication/naik-2019-complex/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan D Schoenfeld | Alistair Johnson</title>
+    <link>/author/jonathan-d-schoenfeld/</link>
+      <atom:link href="/author/jonathan-d-schoenfeld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan D Schoenfeld</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Jonathan D Schoenfeld</title>
+      <link>/author/jonathan-d-schoenfeld/</link>
+    </image>
+    
+    <item>
+      <title>Complex inter-relationship of body mass index, gender and serum creatinine on survival: exploring the obesity paradox in melanoma patients treated with checkpoint inhibition</title>
+      <link>/publication/naik-2019-complex/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/naik-2019-complex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christopher Sudduth | Alistair Johnson</title><link>/author/christopher-sudduth/</link><atom:link href="/author/christopher-sudduth/index.xml" rel="self" type="application/rss+xml"/><description>Christopher Sudduth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Christopher Sudduth</title><link>/author/christopher-sudduth/</link></image><item><title>Dynamics of multivariate vital sign time series and severe sepsis among patients in critical care</title><link>/publication/lehman-2017-dynamics/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>/publication/lehman-2017-dynamics/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Sudduth | Alistair Johnson</title>
+    <link>/author/christopher-sudduth/</link>
+      <atom:link href="/author/christopher-sudduth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Sudduth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Christopher Sudduth</title>
+      <link>/author/christopher-sudduth/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics of multivariate vital sign time series and severe sepsis among patients in critical care</title>
+      <link>/publication/lehman-2017-dynamics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lehman-2017-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

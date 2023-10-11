@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>J Duncan Young | Alistair Johnson</title><link>/author/j-duncan-young/</link><atom:link href="/author/j-duncan-young/index.xml" rel="self" type="application/rss+xml"/><description>J Duncan Young</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>J Duncan Young</title><link>/author/j-duncan-young/</link></image><item><title>Physiological trajectory of patients pre and post ICU discharge</title><link>/publication/johnson-2014-physiological/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/johnson-2014-physiological/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Duncan Young | Alistair Johnson</title>
+    <link>/author/j-duncan-young/</link>
+      <atom:link href="/author/j-duncan-young/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Duncan Young</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>J Duncan Young</title>
+      <link>/author/j-duncan-young/</link>
+    </image>
+    
+    <item>
+      <title>Physiological trajectory of patients pre and post ICU discharge</title>
+      <link>/publication/johnson-2014-physiological/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2014-physiological/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

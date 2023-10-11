@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tingting Zhu | Alistair Johnson</title><link>/author/tingting-zhu/</link><atom:link href="/author/tingting-zhu/index.xml" rel="self" type="application/rss+xml"/><description>Tingting Zhu</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Tingting Zhu</title><link>/author/tingting-zhu/</link></image><item><title>Bayesian fusion of physiological measurements using a signal quality extension</title><link>/publication/zhu-2018-bayesian/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/zhu-2018-bayesian/</guid><description/></item><item><title>Crowd-sourced annotation of ECG signals using contextual information</title><link>/publication/zhu-2014-crowd/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/zhu-2014-crowd/</guid><description/></item><item><title>Bayesian voting of multiple annotators for improved QT interval estimation</title><link>/publication/zhu-2013-bayesian/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>/publication/zhu-2013-bayesian/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tingting Zhu | Alistair Johnson</title>
+    <link>/author/tingting-zhu/</link>
+      <atom:link href="/author/tingting-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tingting Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Tingting Zhu</title>
+      <link>/author/tingting-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian fusion of physiological measurements using a signal quality extension</title>
+      <link>/publication/zhu-2018-bayesian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2018-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced annotation of ECG signals using contextual information</title>
+      <link>/publication/zhu-2014-crowd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2014-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian voting of multiple annotators for improved QT interval estimation</title>
+      <link>/publication/zhu-2013-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2013-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

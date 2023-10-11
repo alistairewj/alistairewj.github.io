@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timothy G Buchman | Alistair Johnson</title><link>/author/timothy-g-buchman/</link><atom:link href="/author/timothy-g-buchman/index.xml" rel="self" type="application/rss+xml"/><description>Timothy G Buchman</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><image><url>/img/alistair.jpg</url><title>Timothy G Buchman</title><link>/author/timothy-g-buchman/</link></image><item><title>Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</title><link>/publication/johnson-2013-improved/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>/publication/johnson-2013-improved/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy G Buchman | Alistair Johnson</title>
+    <link>/author/timothy-g-buchman/</link>
+      <atom:link href="/author/timothy-g-buchman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timothy G Buchman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alistair.jpg</url>
+      <title>Timothy G Buchman</title>
+      <link>/author/timothy-g-buchman/</link>
+    </image>
+    
+    <item>
+      <title>Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</title>
+      <link>/publication/johnson-2013-improved/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-2013-improved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
